@@ -1,0 +1,10 @@
+
+name: Sync UUIDs
+# core: 8.x
+description: "Provides a Drush command to sync the site's active UUID with staged configuration files."
+package: Administration
+type: module
+dependencies:
+  - config
+version: '8.x'
+core: '8.x'
