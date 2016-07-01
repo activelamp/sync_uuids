@@ -1,6 +1,6 @@
 {
     "name": "drupal/sync_uuids",
-    "type": "drupal-custom-module",
+    "type": "drupal-module",
     "require": {
       "composer/installers": "~1.0"
     }
