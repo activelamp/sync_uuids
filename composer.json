@@ -1,5 +1,5 @@
 {
-    "name": "drupal/sync_uuids",
+    "name": "activelamp/sync_uuids",
     "type": "drupal-module",
     "require": {
       "composer/installers": "~1.0"
